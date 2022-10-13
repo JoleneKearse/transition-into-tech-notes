@@ -40,7 +40,7 @@ These are my, admittedly, poor notes from the 2 hour+ event with **[Danny Thomps
 - Ask details before the interview. How many rounds? What is each round: recruiter, technical, behavioural?
 - Research the company. Check out their websites and socials; this is the information they want out there. Work this into the interview to show that you prepared.
 - Reach out to present and past employees.
-- Ask questions!!! _A stat says 85% of hiring managers won't fire someone who doesn't ask questions._
+- Ask questions!!! _A stat says 85% of hiring managers won't hire someone who doesn't ask questions._
 - A good question to ask from Danny: _What does success look like in 6 months from now?_ This gives you your gameplan.
 
 ### Different interview rounds
